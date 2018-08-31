@@ -1,2 +1,2 @@
-# 0.0.1-dev
+# v1.0.0
 - Initial release
